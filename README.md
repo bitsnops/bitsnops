@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hello, I'm Nicholas 👋
+
+I'm an independent software and infrastructure engineer and I have been a computer enthusiast since 1992.  Throughout that time I had an opportunity to grasp whole spectrum of different aspects in creating IT systems.  However, it's writing software that gives me the greatest joy.
+
+- 🔭 I’m currently working on various web3 projects, set of own devops and kubernetes tools and some old hobby projects such as a javascript based graphic editor
+- 🌱 I’m currently learning Rust and Ziglang, as well as exploring Web3 and AI space
+- 👯 I’m looking to collaborate on any interesting project
+- 📫 How to reach me: bitsnops@forthcoming.dev
 
 <!--
 **bitsnops/bitsnops** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
