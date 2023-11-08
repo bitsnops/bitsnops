@@ -5,7 +5,7 @@ I'm an independent software and infrastructure engineer and I have been a comput
 - 🔭 I’m currently working on various web3 projects, set of own devops and kubernetes tools and some old hobby projects such as a javascript based graphic editor
 - 🌱 I’m currently learning Rust and Ziglang, as well as exploring Web3 and AI space
 - 👯 I’m looking to collaborate on any interesting project
-- 📫 How to reach me: nameless@forthcoming.dev
+- 📫 How to reach me: g@f0x.pl
 
 <!--
 **bitsnops/bitsnops** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
