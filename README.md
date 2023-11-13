@@ -1,4 +1,4 @@
-### Hello, I'm Nicholas 👋
+### Hello, I'm Mikołaj 👋
 
 I'm an independent software and infrastructure engineer and I have been a computer enthusiast since 1992.  Throughout that time I had an opportunity to grasp whole spectrum of different aspects in creating IT systems.  However, it's writing software that gives me the greatest joy.
 
